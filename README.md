@@ -5,7 +5,7 @@ my first python project
 # 分支说明
 main：主分支，用于存档最新版本
 dev：开发分支，用于开发新功能
-feature：功能分支，用于开发新功能
+somebody：个人的分支，用自己姓名命名
 hotfix：紧急修复分支，用于修复紧急的bug
 # 项目开发流程
 1. 从master分支创建新的分支，命名为feature/xxx，xxx为功能名称
