@@ -1,6 +1,6 @@
 # pytest1
 my first python project
-这是个python小项目
+这是个python小项目,使用python3.10
 
 # 分支说明
 main: 主分支，用于存档最新版本
